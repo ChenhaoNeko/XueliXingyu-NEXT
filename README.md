@@ -1,7 +1,7 @@
 # 雪栗星语-NEXT / XueliXingyu-NEXT
 
 * **雪栗星语**是一个由雪栗星貉发起的问答节目，而这个节目只发了 2 期就停更了。
-[雪栗星语 原视频](https://www.bilibili.com/video/BV1iP4y1E7L2)
+* [雪栗星语 原视频](https://www.bilibili.com/video/BV1iP4y1E7L2)
 
 * 在我的 16 岁生日，我认识了雪栗星貉，并在后来发现了他较高的情绪价值。
 * 一番商量过后，我和雪栗星貉决定重启**雪栗星语**，并更名**雪栗星语-NEXT**。
