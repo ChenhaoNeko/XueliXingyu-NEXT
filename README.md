@@ -3,11 +3,12 @@
 * **雪栗星语**是一个由雪栗星貉发起的问答节目。
 * [雪栗星语 第 1 期](https://www.bilibili.com/video/BV1iP4y1E7L2)
 * [雪栗星语 第 2 期](https://www.bilibili.com/video/BV19P4y1k7Ud)
-* [雪栗星语 第 3 期](https://www.bilibili.com/video/BV1WfFaeXEAQ)
+* [雪栗星语 第 3 期](https://www.bilibili.com/video/BV1Du1RYsEVj)
+* [雪栗星语 第 4 期](https://www.bilibili.com/video/BV1WfFaeXEAQ)
 ---
 * 在我的 16 岁生日，我认识了雪栗星貉，并在后来发现了他较高的情绪价值。
 * 一番商量过后，我和雪栗星貉决定升级**雪栗星语**，并更名**雪栗星语-NEXT**。
-* 你可以将游玩他的整合包时遇到的问题问出来，也可以将你内心的烦恼倒出来。。。（提问入口为第 3 期评论区）
+* 你可以将游玩他的整合包时遇到的问题问出来，也可以将你内心的烦恼倒出来。。。（提问入口为第 4 期评论区）
 * 一切我们认为有价值的问答将被收录于这个仓库。
 * 若要查看往期精选，请移步至 [往期精选](/雪栗星语往期精选.md)。
 ---
